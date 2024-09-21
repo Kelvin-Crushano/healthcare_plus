@@ -1,0 +1,648 @@
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe.config
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.pdb
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\mysql.data.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.SuggestedBindingRedirects.cache
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.doctors_detailes.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_user_accounts.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_custom_treatment_plan.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_medical_resources.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_room_scheduling.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_theater_availability.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_schedule_surgery.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_med_record.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_profile.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_st_registration.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_admin_dashboard.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_consul_appo_sched.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.patiant.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Properties.Resources.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.GenerateResource.cache
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CopyComplete
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.exe
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.pdb
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.medicine_detailes.resources
+F:\CShap_Systems\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Invoice.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe.config
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.pdb
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\mysql.data.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.doctors_detailes.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_user_accounts.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_custom_treatment_plan.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_medical_resources.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_room_scheduling.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_theater_availability.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_schedule_surgery.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_med_record.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_profile.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_st_registration.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_admin_dashboard.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_consul_appo_sched.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Invoice.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.medicine_detailes.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.patiant.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Properties.Resources.resources
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.GenerateResource.cache
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CopyComplete
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.exe
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.pdb
+E:\AD\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.room_with_amnt.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe.config
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.pdb
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\mysql.data.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.doctors_detailes.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_user_accounts.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_custom_treatment_plan.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_medical_resources.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_room_scheduling.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_theater_availability.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_schedule_surgery.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_med_record.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_profile.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_st_registration.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_admin_dashboard.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_consul_appo_sched.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Invoice.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.medicine_detailes.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.patiant.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Properties.Resources.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.room_with_amnt.resources
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.GenerateResource.cache
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CopyComplete
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.exe
+E:\AD CW 1\New folder (3)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.pdb
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe.config
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.pdb
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\mysql.data.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.doctors_detailes.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_user_accounts.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_custom_treatment_plan.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_medical_resources.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_room_scheduling.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_theater_availability.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_schedule_surgery.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_med_record.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_profile.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_st_registration.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_admin_dashboard.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_consul_appo_sched.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Invoice.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.medicine_detailes.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.patiant.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Properties.Resources.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.room_with_amnt.resources
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.GenerateResource.cache
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CopyComplete
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.exe
+E:\AD CW 1\New folder (4)\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.pdb
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.exe
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.pdb
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe.config
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.pdb
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\mysql.data.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.doctors_detailes.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_user_accounts.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_custom_treatment_plan.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_medical_resources.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_room_scheduling.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_theater_availability.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_schedule_surgery.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_med_record.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_profile.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_st_registration.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_admin_dashboard.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_consul_appo_sched.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Invoice.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.medicine_detailes.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.patiant.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Properties.Resources.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.room_with_amnt.resources
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.GenerateResource.cache
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+E:\Esoft\External Assignments\Kelvin\Hospital Management UI\Hospital Management UI\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CopyComplete
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe.config
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.exe
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\HospitalProject.pdb
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\mysql.data.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.doctors_detailes.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_user_accounts.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_custom_treatment_plan.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_medical_resources.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_room_scheduling.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_theater_availability.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_schedule_surgery.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_med_record.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_patient_profile.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_st_registration.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_admin_dashboard.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_consul_appo_sched.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Invoice.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.medicine_detailes.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.patiant.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.Properties.Resources.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.room_with_amnt.resources
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.GenerateResource.cache
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.csproj.CopyComplete
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.exe
+E:\AD CW 1\New folder (5)\Hospital Management UI\WindowsFormsApp1\obj\Debug\HospitalProject.pdb
